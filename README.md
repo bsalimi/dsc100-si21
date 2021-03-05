@@ -6,7 +6,7 @@
 
 ## Description:
 
-Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. The purpose of this course is to provide a comprehensive introduction to the use of management systems for applications. Some topics covered are the following: data models, query languages, transactions, database design and database as a service.
+Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. The purpose of this course is to provide a comprehensive introduction to the use of management systems for applications. Some topics covered are the following: data models, query languages, query evaluation and optimisation,  database design and transactions. 
 
 
 
@@ -51,15 +51,15 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  1   | Intro, Data models, SQL | Sqlite practice |       |  |                      |
-|  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite |  |                      |
-|  3   | Advanced SQL | Azure and Advanced SQL practice | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates |  |  |
-|  4   |  Relational Algebra  | Relational Algebra practice | WQ3 due: Nested Queries and Relational Algebra |  |  |
+|  2   |   Join and Aggregates in SQL    | SQL practice |  |  |                      |
+|  3   | Advanced SQL | Azure and Advanced SQL practice |  |  |  |
+|  4   |  Relational Algebra  | Relational Algebra practice |  |  |  |
 | 5  |        Query Evaluation        | Exam practice |  |  |  |
-|  6   | Basics of Data Storage and Indexes | Midterm solutions | HW3 due: Advanced SQL |  |  |
+|  6   | Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
 |  7   |         NoSQL Databases         | Indexes and Cost Estimation |  |  |  |
 |  8   | Conceptual Design | Design practice |  |  |  |
-|  9  | Transactions | Transactions practice | WQ4 due: Conceptual Design <br />HW4 due: Conceptual Design |  |  |
-| 10 | Transactions | Exam practice, | WQ5 due: Transaction Management |  |  |
+|  9  | Transactions | Transactions practice |  |  |  |
+| 10 | Transactions | Exam practice, |  |  |  |
 
 
 
