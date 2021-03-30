@@ -50,7 +50,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  1   | Intro, Data models, SQL | Sqlite practice |       |  |                      |
+|  1   | Intro, Data models, SQL | Sqlite practice |       | [Slides and Recordings](Lectures/lec01.md) |                      |
 |  2   |   Join and Aggregates in SQL    | SQL practice |  |  |                      |
 |  3   | Advanced SQL | Azure and Advanced SQL practice |  |  |  |
 |  4   |  Relational Algebra  | Relational Algebra practice |  |  |  |
@@ -59,7 +59,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  7   |         NoSQL Databases         | Indexes and Cost Estimation |  |  |  |
 |  8   | Conceptual Design | Design practice |  |  |  |
 |  9  | Transactions | Transactions practice |  |  |  |
-| 10 | Transactions | Exam practice, |  |  |  |
+| 10 | Transactions | Exam practice |  |  |  |
 
 
 
@@ -67,15 +67,15 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 **(subject to change)**
 
-**Homework (45%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
+**Homework (60%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
 
-1. **Written problem-solving and programming assignments (35%):**
+1. **Written problem-solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
 
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. 
 
-3. **Midterm (20%)** and **final  (35%)**: Details would be posted later.
+3. **Midterm (20%)** and **final  (20%)**: Details would be posted later.
 
 4. **Extra Credit**: 
 
