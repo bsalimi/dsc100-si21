@@ -52,7 +52,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  1   | Intro, Data models, SQL | Sqlite practice |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
 |  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
-|  3   | Advanced SQL | Azure and Advanced SQL practice | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates |  |  |
+|  3   | Advanced SQL | Azure and Advanced SQL practice |  |  |  |
 |  4   |  Relational Algebra  | Relational Algebra practice |  |  |  |
 | 5  |        Query Evaluation        | Exam practice |  |  |  |
 |  6   | Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
