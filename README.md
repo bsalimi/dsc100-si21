@@ -74,7 +74,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. 
 3. **Midterm (18%)** and **final  (18%)**: Details would be posted later.
-4. **Attendance in Discussion Sessions (4%)**:
+4. **Attendance in Discussion Sessions (4%)**
 5. **Extra Credit**: 
 
    - Some howmeworks have extra credit questions.
