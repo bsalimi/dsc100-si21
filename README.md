@@ -18,7 +18,7 @@ Databases are at the heart of modern commercial application development. Their u
 
 **Course Assistants:**
 
-TBD 
+Patil, Chaitanya Sharadchandra, [cpatil@ucsd.edu](mailto:cpatil@ucsd.edu)
 
 **Lectures**:
 
@@ -26,11 +26,11 @@ The lecture for this class will be ASYNCHRONOUS and discussion sections will be 
 
 **Discussion:**: 
 
-TBD
+Wednesdays 4:00 pm to 4:50 pm 
 
 **Office Hours:**
 
-TBD
+Mondays 4:00 PM to 5:00 PM (Babak Salimi)
 
 **Zoom Meetings:** 
 
@@ -38,7 +38,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 
 
-**Piazza:** [TBD] (Requires access code posted on Canvas)
+**Piazza:** [link](piazza.com/ucsd/spring2021/dsc100) (Requires access code posted on Canvas)
 
 **Have questions? Please email both Babak Salimi (bsalimi@ucsd.edu) and one of the TAs for questions on logistics. All other questions SHOULD be discussed on Piazza.**
 
@@ -50,9 +50,9 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  1   | Intro, Data models, SQL | Sqlite practice |       | [Slides and Recordings](Lectures/lec01.md) |                      |
-|  2   |   Join and Aggregates in SQL    | SQL practice |  |  |                      |
-|  3   | Advanced SQL | Azure and Advanced SQL practice |  |  |  |
+|  1   | Intro, Data models, SQL | Sqlite practice |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
+|  2   |   Join and Aggregates in SQL    | SQL practice | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
+|  3   | Advanced SQL | Azure and Advanced SQL practice | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates |  |  |
 |  4   |  Relational Algebra  | Relational Algebra practice |  |  |  |
 | 5  |        Query Evaluation        | Exam practice |  |  |  |
 |  6   | Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
@@ -71,13 +71,11 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 1. **Written problem-solving and programming assignments (50%):**
    Start early and allocate enough time to solve these problems! 
-
 2. **Gradiance exercises (10%):**
    [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. 
-
-3. **Midterm (20%)** and **final  (20%)**: Details would be posted later.
-
-4. **Extra Credit**: 
+3. **Midterm (18%)** and **final  (18%)**: Details would be posted later.
+4. **Attendance in Discussion Sessions (4%)**:
+5. **Extra Credit**: 
 
    - Some howmeworks have extra credit questions.
 
