@@ -30,7 +30,9 @@ Wednesdays 4:00 pm to 4:50 pm
 
 **Office Hours:**
 
-Mondays 2:00 PM to 3:00 PM (Babak Salimi)
+Mondays 2:00 PM to 3:00 PM (Babak)
+
+Fridays 4:00 PM to 5:00 PM (Chaitanya)
 
 **Zoom Meetings:** 
 
