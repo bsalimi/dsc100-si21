@@ -55,7 +55,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  1   | Intro, Data models, SQL | Sqlite practice [Source](https://drive.google.com/file/d/1hPmCCTVhdDo1vJKnZsJIR04oaWLwvbVw/view?usp=sharing), [Recording](https://drive.google.com/file/d/19B2zkzlwKL2wHlE6eW876vmEFgecEf3z/view?ts=606e5fc8) |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
 |  2   |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
 |  3   | Advanced SQL | Azure and Advanced SQL practice [Source](https://drive.google.com/file/d/1-q4rX9t1Oj9e-fInjzy3m6_xPQFn66LR/view?usp=sharing), [Recording](https://drive.google.com/file/d/1fibRJNr1uhg3Md235uQz3e8PboxheJ3U/view?usp=sharing) | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates | [Slides and recordings](./Lectures/lec03.md) |  |
-|  4   |  Relational Algebra  | Relational Algebra practice |  | [Slides and recordings](./Lectures/lec04.md) |  |
+|  4   |  Relational Algebra  | Relational Algebra practice | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec04.md) |  |
 | 5  |        Query Evaluation        | Exam practice |  |  |  |
 |  6   | Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
 |  7   |         NoSQL Databases         | Indexes and Cost Estimation |  |  |  |
