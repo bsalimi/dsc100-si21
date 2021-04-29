@@ -56,7 +56,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  2   |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
 |  3   | Advanced SQL | Azure and Advanced SQL practice [Source](https://drive.google.com/file/d/1-q4rX9t1Oj9e-fInjzy3m6_xPQFn66LR/view?usp=sharing), [Recording](https://drive.google.com/file/d/1fibRJNr1uhg3Md235uQz3e8PboxheJ3U/view?usp=sharing) | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates | [Slides and recordings](./Lectures/lec03.md) |  |
 |  4   |  Relational Algebra  |  |  | [Slides and recordings](./Lectures/lec04.md) |  |
-| 5  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/1vs7WKq3Cw4tG3eX65OqI1Ci5l0cQq2tx/view?ts=608a1a50) | HW3 due: Advanced SQL |  |  |
+| 5  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
 |  6   | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
 |  7   |         NoSQL Databases         | Indexes and Cost Estimation |  |  |  |
 |  8   | Conceptual Design | Design practice |  |  |  |
