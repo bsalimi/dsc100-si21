@@ -57,7 +57,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  3   | Advanced SQL | Azure and Advanced SQL practice [Source](https://drive.google.com/file/d/1-q4rX9t1Oj9e-fInjzy3m6_xPQFn66LR/view?usp=sharing), [Recording](https://drive.google.com/file/d/1fibRJNr1uhg3Md235uQz3e8PboxheJ3U/view?usp=sharing) | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates | [Slides and recordings](./Lectures/lec03.md) |  |
 |  4   |  Relational Algebra  |  |  | [Slides and recordings](./Lectures/lec04.md) |  |
 | 5  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
-|  6   | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions |  |  |  |
+|  6   | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions |  | [Slides and recordings](./Lectures/lec06.md) |  |
 |  7   |         NoSQL Databases         | Indexes and Cost Estimation |  |  |  |
 |  8   | Conceptual Design | Design practice |  |  |  |
 |  9  | Transactions | Transactions practice |  |  |  |
