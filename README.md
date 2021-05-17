@@ -58,9 +58,9 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  4   |  Relational Algebra  |  |  | [Slides and recordings](./Lectures/lec04.md) |  |
 | 5  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
 |  6   | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1m-bwbCdi0Y_qkWXQZwzSbJLhuOEcMsL6/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec06.md) |  |
-|  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation |  | [Slides and recordings](./Lectures/lec07.md) |  |
-|  8   | Conceptual Design | Design practice |  |  |  |
-|  9  | Transactions | Transactions practice |  |  |  |
+|  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
+|  8   | Conceptual Design | Design practice | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
+|  9  | BCNF, Transactions | Transactions practice |  |  |  |
 | 10 | Transactions | Exam practice |  |  |  |
 
 
