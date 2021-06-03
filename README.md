@@ -61,7 +61,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  7   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design | Homework Solutions |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
 |  9  | BCNF, Transactions | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
-| 10 | Transactions | Transactions and final Exam practice |  | [Slides and recordings](./Lectures/lec10.md) |  |
+| 10 | Transactions | Transactions and final Exam practice [Source](https://drive.google.com/file/d/1LlLhfbfzvVQGwzabe4acuSg5WE2ijc3O/view?usp=sharing) [Recording](https://drive.google.com/file/d/1-vTscJ80fV_IuXFDVbrOjRDntH8JzXSx/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec10.md) |  |
 
 
 
