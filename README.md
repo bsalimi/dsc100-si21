@@ -63,7 +63,9 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  9  | BCNF, Transactions | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
 | 10 | Transactions | Transactions practice: [Source](https://drive.google.com/file/d/1LlLhfbfzvVQGwzabe4acuSg5WE2ijc3O/view?usp=sharing) [Recording](https://drive.google.com/file/d/1-vTscJ80fV_IuXFDVbrOjRDntH8JzXSx/view?usp=sharing)   final Exam: |  | [Slides and recordings](./Lectures/lec10.md) |  |
 
+**Note: ** The slides are adopted from the  UW database group. 
 
+## 
 
 ## Workload:
 
