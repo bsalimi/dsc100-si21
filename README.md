@@ -65,7 +65,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 **Note: ** The slides are adopted from the  UW database group. 
 
-## 
+
 
 ## Workload:
 
